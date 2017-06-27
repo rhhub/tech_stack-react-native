@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { ListView } from 'react-native';
+import { ListView, } from 'react-native';
 import { connect } from 'react-redux';
 import ListItem from './ListItem';
 
